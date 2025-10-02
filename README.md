@@ -1,11 +1,11 @@
 <div align="center">
   <img src="assets/banner.png" alt="Bettorr Banner" width="100%">
-  
+
   # 🎮 Bettorr - Game Torrent Search Engine
-  
+
   [![Website](https://img.shields.io/badge/Website-bettorr.vercel.app-00d4aa?style=for-the-badge&logo=vercel)](https://bettorr.vercel.app)
-  [![GitHub](https://img.shields.io/badge/GitHub-ctrlcat0x/bettorr-181717?style=for-the-badge&logo=github)](https://github.com/ctrlcat0x/bettorr)
-  [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/ctrlcat0x/bettorr)
+  [![GitHub](https://img.shields.io/badge/GitHub-iam-sahil/bettorr-181717?style=for-the-badge&logo=github)](https://github.com/iam-sahil/bettorr)
+  [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)](https://github.com/iam-sahil/bettorr)
 </div>
 
 ---
@@ -301,9 +301,9 @@ Your ideas and efforts can help make Bettorr even better.
 
 <p>
 <a href="https://bettorr.vercel.app">🌐 Visit Website</a> •
-<a href="https://github.com/ctrlcat0x/bettorr">📁 View on GitHub</a> •
-<a href="https://github.com/ctrlcat0x/bettorr/issues">🐛 Report Issues</a>
+<a href="https://github.com/iam-sahil/bettorr">📁 View on GitHub</a> •
+<a href="https://github.com/iam-sahil/bettorr/issues">🐛 Report Issues</a>
 </p>
 
-<p><b>Made with ❤️ by https://github.com/ctrlcat0x</b></p>
+<p><b>Made with ❤️ by https://github.com/iam-sahil</b></p>
 </div>
